@@ -1,0 +1,130 @@
+1587527400130	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mq/f38vp4wn3438l0lk4ng4md200000gn/T/rust_mozprofile.kQDvfkB9fuCm"
+1587527400791	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587527401202	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587527401202	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587527401202	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587527401202	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587527403148	Marionette	INFO	Listening on port 50910
+1587527403166	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587527403332	Marionette	INFO	Stopped listening on port 50910
+1587528566556	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mq/f38vp4wn3438l0lk4ng4md200000gn/T/rust_mozprofile.GMFC9pkPZkK0"
+1587528566988	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587528567419	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587528567419	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587528567420	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587528567420	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587528569193	Marionette	INFO	Listening on port 52686
+1587528569237	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587528569403	Marionette	INFO	Stopped listening on port 52686
+1587528569772	addons.xpi	WARN	Addon with ID amazondotcom@search.mozilla.org already installed, older version will be disabled
+1587528569773	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1545:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1545:17
+makeAddonVisible@XPIDatabase.jsm:2348:10
+addToDatabase@XPIDatabase.jsm:2275:12
+install@XPIInstall.jsm:4320:27
+update@XPIProvider.jsm:2074:13
+1587528569773	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1545:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1545:17
+addToDatabase@XPIDatabase.jsm:2278:10
+install@XPIInstall.jsm:4320:27
+update@XPIProvider.jsm:2074:13
+1587528569800	addons.xpi	WARN	Addon with ID bing@search.mozilla.org already installed, older version will be disabled
+1587528569800	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1545:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1545:17
+makeAddonVisible@XPIDatabase.jsm:2348:10
+addToDatabase@XPIDatabase.jsm:2275:12
+install@XPIInstall.jsm:4320:27
+update@XPIProvider.jsm:2074:13
+1587528569801	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1545:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1545:17
+addToDatabase@XPIDatabase.jsm:2278:10
+install@XPIInstall.jsm:4320:27
+update@XPIProvider.jsm:2074:13
+1587528569823	addons.xpi	WARN	Addon with ID google@search.mozilla.org already installed, older version will be disabled
+1587528569823	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1545:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1545:17
+makeAddonVisible@XPIDatabase.jsm:2348:10
+addToDatabase@XPIDatabase.jsm:2275:12
+install@XPIInstall.jsm:4320:27
+update@XPIProvider.jsm:2074:13
+1587528569824	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1545:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1545:17
+addToDatabase@XPIDatabase.jsm:2278:10
+install@XPIInstall.jsm:4320:27
+update@XPIProvider.jsm:2074:13
+1587528569856	addons.xpi	WARN	Addon with ID twitter@search.mozilla.org already installed, older version will be disabled
+1587528569857	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1545:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1545:17
+makeAddonVisible@XPIDatabase.jsm:2348:10
+addToDatabase@XPIDatabase.jsm:2275:12
+install@XPIInstall.jsm:4320:27
+update@XPIProvider.jsm:2074:13
+1587528569857	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1545:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1545:17
+addToDatabase@XPIDatabase.jsm:2278:10
+install@XPIInstall.jsm:4320:27
+update@XPIProvider.jsm:2074:13
+1587528569893	addons.xpi	WARN	Addon with ID wikipedia@search.mozilla.org already installed, older version will be disabled
+1587528569894	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1545:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1545:17
+makeAddonVisible@XPIDatabase.jsm:2348:10
+addToDatabase@XPIDatabase.jsm:2275:12
+install@XPIInstall.jsm:4320:27
+update@XPIProvider.jsm:2074:13
+1587528569894	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1545:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1545:17
+addToDatabase@XPIDatabase.jsm:2278:10
+install@XPIInstall.jsm:4320:27
+update@XPIProvider.jsm:2074:13
+1587528569908	addons.xpi	WARN	Addon with ID ddg@search.mozilla.org already installed, older version will be disabled
+1587528569908	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1545:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1545:17
+makeAddonVisible@XPIDatabase.jsm:2348:10
+addToDatabase@XPIDatabase.jsm:2275:12
+install@XPIInstall.jsm:4320:27
+update@XPIProvider.jsm:2074:13
+1587528569908	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1545:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1545:17
+addToDatabase@XPIDatabase.jsm:2278:10
+install@XPIInstall.jsm:4320:27
+update@XPIProvider.jsm:2074:13
+1587528597996	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mq/f38vp4wn3438l0lk4ng4md200000gn/T/rust_mozprofile.nHs4g2VoLSQY"
+1587528598445	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587528598914	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587528598914	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587528598914	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587528598915	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587528600531	Marionette	INFO	Listening on port 52793
+1587528600570	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587528600753	Marionette	INFO	Stopped listening on port 52793
+1587528642794	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mq/f38vp4wn3438l0lk4ng4md200000gn/T/rust_mozprofile.6vMEA2SGdAdn"
+1587528643212	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587528643638	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587528643638	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587528643638	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587528643638	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587528645210	Marionette	INFO	Listening on port 52919
+1587528645269	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587528645485	Marionette	INFO	Stopped listening on port 52919
+1587528681531	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mq/f38vp4wn3438l0lk4ng4md200000gn/T/rust_mozprofile.OMVdnV8g3b97"
+1587528681989	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587528682404	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587528682404	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587528682404	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587528682404	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587528683991	Marionette	INFO	Listening on port 53049
+1587528684090	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1587529218739	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mq/f38vp4wn3438l0lk4ng4md200000gn/T/rust_mozprofile.cr4eo1zivyjg"
+1587529219154	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587529219587	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587529219587	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587529219587	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587529219587	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587529221223	Marionette	INFO	Listening on port 53860
+1587529221297	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1587529352053	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mq/f38vp4wn3438l0lk4ng4md200000gn/T/rust_mozprofile.JBG9LrXrvMSJ"
+1587529352514	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587529352913	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587529352923	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587529352923	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587529352923	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587529354491	Marionette	INFO	Listening on port 54107
+1587529354519	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 555: TypeError: xhr.response.location is undefined
